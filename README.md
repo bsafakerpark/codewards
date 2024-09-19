@@ -1,5 +1,5 @@
 // completed solotions link above
-https://www.codewars.com/users/bsafakerpark/completed_solutions
+https://www.codewars.com/users/bsafakerpark/completed_solutions ``
 
 // 1- Find the odd int 
 public class FindOdd {

@@ -1,5 +1,6 @@
 // completed solotions link above
 https://www.codewars.com/users/bsafakerpark/completed_solutions
+
 // 1- Find the odd int 
 public class FindOdd {
     public static int findIt(int[] a) {
@@ -10,6 +11,7 @@ public class FindOdd {
         return result;
     }
 }
+
 // 2- Convert a Number to a String!
 class Kata {
   public static String numberToString(int num) {
@@ -17,6 +19,7 @@ class Kata {
     return Integer.toString(num);
   }
 }
+
 // 3- reversed strings
 public class Kata {
 
@@ -27,6 +30,7 @@ public static String solution(String str) {
   }
 
 }
+
 // 4-Fractions class
 public class Fraction implements Comparable<Fraction>
 { private final long top;
